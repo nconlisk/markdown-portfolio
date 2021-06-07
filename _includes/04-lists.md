@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## A List of Things I am Learning:
+- HTML5
+- CSS3
+- JS
+- React
